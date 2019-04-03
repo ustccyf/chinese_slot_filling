@@ -1,0 +1,17 @@
+MusicName
+MusicBoardName
+MusicGenre
+MusicScene
+EVALUATE_HOT
+EVALUATE_TIME
+MusicBoardSource
+O
+MusicType
+Person
+Relation
+EVALUATE_GOOD
+SingMode
+MusicEmotion
+MusicLanguage
+TIME_YEAR
+MusicTheme
